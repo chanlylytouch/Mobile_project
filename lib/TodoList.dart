@@ -1,4 +1,4 @@
-import 'package:todolist_project/NewDialog.dart';
+import 'package:todolist_project/Dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:todolist_project/Todo.dart';
 
