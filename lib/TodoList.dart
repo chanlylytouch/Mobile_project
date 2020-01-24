@@ -8,6 +8,7 @@ class TodoList extends StatefulWidget {
 }
 
 class _TodoListState extends State<TodoList> {
+
   List<Todo> todos = [];
   TextEditingController controller = new TextEditingController();
   _toggleTodo(Todo todo, bool isChecked) {
